@@ -1,0 +1,37 @@
+html
+css
+javascript
+react
+vue
+angular
+bootstrap
+tailwind
+node.js
+express.js
+django
+flask
+spring boot
+rest api
+graphql
+mysql
+postgresql
+mongodb
+firebase
+git
+github
+docker
+kubernetes
+ci/cd
+aws
+azure
+authentication
+jwt
+json
+typescript
+unit testing
+redux
+webpack
+api integration
+responsive design
+agile
+scrum
