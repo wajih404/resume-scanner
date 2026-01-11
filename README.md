@@ -1,2 +1,2 @@
 # resume-scanner
-AI-powered resume screener using NLP-based text extraction and relevance scoring
+AI-assisted resume screening tool that parses PDF/DOCX resumes and ranks candidates using keyword-based relevance scoring. Built for transparent and scalable shortlisting.
